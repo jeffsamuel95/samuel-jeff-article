@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display:400,400i&display=swap');
+</style>
+body 
+  /*
+  COLOURS:
+  Turqouise: #040806
+  Navy: #1c1d21
+  Grey: #d1d1d1
+  Black: #080808
+  
+  
+   FONTS
+    serif: 'DM Serif Display'
+    sans: Arial, Helvetica
+  
+  */
+  
+   Body {
+    background-color: #d1d1d1;
+    colour: 
+     font-weight: normal
+     text-align: center
+     font-size: 1em
+     font- style: normal
+     font-family: helvetica nue, arial, serif
+     line-height: 1.5;
+     
+    
+    
+}
+
+
+   H1 {
+   
+   Font-family: 'DM Serif Display', serif,
+    font-size: 2em
+    font-style: bold
+     horizontal-rule {
+      border-bottom: 0.125em solid #080808
+     
+     
+    } 
+
+
+    P1 {
+    Font-family: helvetica
+    Font-style 
+      container {
+       padding: 0 1rem
+       max-width:800px;
+       margin: 0 auto;
+        
+        
+        
+       
+      
+      
+      
+    
+}
+     
+   
+    
+  
+  
+  
+  
+  
+  
+
+  
+}
