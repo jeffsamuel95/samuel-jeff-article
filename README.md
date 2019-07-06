@@ -4,6 +4,7 @@ My first project
 Deliverable Assignment 2, Part B
 Name: Jeffrey Samuel
 GBC Student #: 100926125
+Email: jeffrey.samuel@georgebrown.ca
 Submitted: 07/05/19
 Notes: None
 
